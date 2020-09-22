@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Calculator
+This is a simple calculator app built with react. Works how a normal calculator would
+
+#### How to run ?
+1. Download zip or clone repo
+2. Install dependencies by running (npm install)
+3. Run (npm start) to start
 
 ## Available Scripts
 
